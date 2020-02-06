@@ -1,0 +1,4 @@
+#Wed Feb 05 11:58:30 PST 2020
+base.0=E\:\\Praktek Kerja Lapangan\\aplikasi-belajar\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

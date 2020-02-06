@@ -35,7 +35,7 @@ const App: () => React$Node = () => {
           <Header />
           {global.HermesInternal == null ? null : (
             <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
+              <Text style={styles.footer}>Engine: haikkHermes</Text>
             </View>
           )}
           <View style={styles.body}>
@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
   },
   sectionContainer: {
     marginTop: 32,
-    paddingHorizontal: 24,
+    paddingHorizontal: 25,
   },
   sectionTitle: {
     fontSize: 24,
